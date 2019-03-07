@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+    opacity:0.5;
+}
+img{
+    width:200px;
+    border:dashed;
+}
+body{
+    background-color:lightgreen;
+    font-family: 'Lobster', cursive;
+    text-align:center;
+    
+}
+p{
+    color:blue;
+}
+
+
+
